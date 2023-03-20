@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.event-list-container {
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+}
+
+.event-border {
+  border: 3px solid #f8fafc;
+  border-radius: 10px;
+}
+
+.button {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.img-element {
+  width: 280px;
+  height: 210px;
+}
+
+.name {
+  color: #ffffff;
+}
+
+.location {
+  color: #ffffff;
+}

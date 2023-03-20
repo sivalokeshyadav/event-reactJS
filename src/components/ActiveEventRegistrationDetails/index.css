@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.register {
+  width: 100px;
+  height: 80px;
+}
+
+.registered-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.registered {
+  width: 100px;
+  height: 80px;
+}
+
+.registered-para {
+  color: black;
+}
+
+.btn {
+  background-color: #0967d2;
+  border: 0px #0967d2;
+  color: #ffffff;
+}
+
+.registration-close-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  color: black;
+}
+
+.registrations-closed {
+  width: 100px;
+  height: 80px;
+}
